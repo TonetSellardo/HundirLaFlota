@@ -13,6 +13,7 @@ public class Coordenadas {
             throw new FueraDelTableroExcepcion();
         }
         this.origenX = origenX;
+
         this.origenY = origenY;
     }
 
