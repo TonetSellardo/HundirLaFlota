@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=Usuario
+comment1.params=
+comment1.target=boolean\ compruebaUsuario()
+comment2.params=
+comment2.target=void\ creaUsuarioNuevo()
+comment3.params=
+comment3.target=java.lang.String\ obtenDatosUsuario()
+numComments=4

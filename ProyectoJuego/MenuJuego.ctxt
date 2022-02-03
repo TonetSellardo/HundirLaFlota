@@ -1,0 +1,15 @@
+#BlueJ class context
+comment0.target=MenuJuego
+comment1.params=
+comment1.target=MenuJuego()
+comment2.params=
+comment2.target=void\ dibujarMenu()
+comment3.params=
+comment3.target=void\ limpiaMenu()
+comment4.params=opcion
+comment4.target=void\ compruebaOpcion(int)
+comment5.params=
+comment5.target=int\ devuelveOpcion()
+comment6.params=
+comment6.target=void\ opcionEscogidaMal()
+numComments=7
