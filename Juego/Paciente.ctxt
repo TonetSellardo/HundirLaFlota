@@ -1,0 +1,21 @@
+#BlueJ class context
+comment0.target=Paciente
+comment1.params=
+comment1.target=Paciente()
+comment2.params=
+comment2.target=void\ preguntaPacientes()
+comment3.params=
+comment3.target=int\ obtenPacientes()
+comment4.params=contador
+comment4.target=void\ obtenDatos(int)
+comment5.params=
+comment5.target=void\ muestraDatos()
+comment6.params=
+comment6.target=java.lang.String\ getNombre()
+comment7.params=
+comment7.target=int\ getEdad()
+comment8.params=
+comment8.target=float\ getPeso()
+comment9.params=
+comment9.target=float\ getEstatura()
+numComments=10

@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=AhorcadoJOptionPane
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment2.params=longitud
+comment2.target=java.lang.String\ inicializarLetrasEncontradas(int)
+comment3.params=palabraAdivinar\ letra
+comment3.target=int\ actualizarFallos(java.lang.String,\ java.lang.String)
+comment4.params=palabraAdivinar\ letra\ letrasEncontradas
+comment4.target=java.lang.String\ actualizarLetrasEncontradas(java.lang.String,\ java.lang.String,\ java.lang.String)
+comment5.params=fallos
+comment5.target=java.lang.String\ dibujarAhorcado(int)
+numComments=6

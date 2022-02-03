@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=MenuAhorcado
+comment1.params=
+comment1.target=MenuAhorcado()
+comment2.params=
+comment2.target=void\ limpiaMenu()
+comment3.params=
+comment3.target=void\ presentacionAhorcado()
+comment4.params=
+comment4.target=void\ dibujaMenuAhorcado()
+numComments=5

@@ -1,0 +1,15 @@
+#BlueJ class context
+comment0.target=PuntosAhorcado
+comment1.params=
+comment1.target=PuntosAhorcado()
+comment2.params=dificultad\ palabra\ intentos
+comment2.target=void\ calculadoraPuntos(int,\ java.lang.String,\ int)
+comment3.params=partidas\ puntosCalculados
+comment3.target=void\ setPuntos(int,\ int)
+comment4.params=
+comment4.target=int\ getPuntos1()
+comment5.params=
+comment5.target=int\ getPuntos2()
+comment6.params=
+comment6.target=int\ getPuntos3()
+numComments=7

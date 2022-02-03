@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=DibujoAhorcado
+comment1.params=
+comment1.target=DibujoAhorcado()
+comment2.params=
+comment2.target=void\ dibujaHorca()
+comment3.params=error
+comment3.target=void\ dibujaError(int)
+numComments=4

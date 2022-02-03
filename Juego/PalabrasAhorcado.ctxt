@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=PalabrasAhorcado
+comment1.params=
+comment1.target=PalabrasAhorcado()
+comment2.params=
+comment2.target=java.lang.String\ escogePalabra()
+comment3.params=palabra\ errores\ letras\ intentos
+comment3.target=void\ detallesPalabra(java.lang.String,\ int,\ java.lang.String,\ int)
+numComments=4
